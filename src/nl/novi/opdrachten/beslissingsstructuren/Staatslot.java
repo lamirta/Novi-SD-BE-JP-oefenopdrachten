@@ -13,5 +13,6 @@ public class Staatslot {
         // Wanneer iemand ouder is dan 17 print het bericht: "U mag een staatslot kopen"
         // Wanneer iemand 17 jaar of jonger is, print het bericht: "Jij mag geen staatslot kopen."
 
+        // test commit git
     }
 }
